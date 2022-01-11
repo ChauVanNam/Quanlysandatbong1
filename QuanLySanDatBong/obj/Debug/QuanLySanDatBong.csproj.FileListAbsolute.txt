@@ -1,0 +1,23 @@
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QuanLySanDatBong\QuanLySanDatBong\bin\Debug\QuanLySanDatBong.exe.config
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QuanLySanDatBong\QuanLySanDatBong\bin\Debug\QuanLySanDatBong.exe
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QuanLySanDatBong\QuanLySanDatBong\bin\Debug\QuanLySanDatBong.pdb
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QuanLySanDatBong\QuanLySanDatBong\obj\Debug\QuanLySanDatBong.csproj.AssemblyReference.cache
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QuanLySanDatBong\QuanLySanDatBong\obj\Debug\QuanLySanDatBong.csproj.SuggestedBindingRedirects.cache
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QuanLySanDatBong\QuanLySanDatBong\obj\Debug\QuanLySanDatBong.Form1.resources
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QuanLySanDatBong\QuanLySanDatBong\obj\Debug\QuanLySanDatBong.Form2.resources
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QuanLySanDatBong\QuanLySanDatBong\obj\Debug\QuanLySanDatBong.Properties.Resources.resources
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QuanLySanDatBong\QuanLySanDatBong\obj\Debug\QuanLySanDatBong.csproj.GenerateResource.cache
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QuanLySanDatBong\QuanLySanDatBong\obj\Debug\QuanLySanDatBong.csproj.CoreCompileInputs.cache
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QuanLySanDatBong\QuanLySanDatBong\obj\Debug\QuanLySanDatBong.exe
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QuanLySanDatBong\QuanLySanDatBong\obj\Debug\QuanLySanDatBong.pdb
+C:\Users\DuyHuynh\Desktop\QuanLySanDatBong\QuanLySanDatBong\bin\Debug\QuanLySanDatBong.exe.config
+C:\Users\DuyHuynh\Desktop\QuanLySanDatBong\QuanLySanDatBong\bin\Debug\QuanLySanDatBong.exe
+C:\Users\DuyHuynh\Desktop\QuanLySanDatBong\QuanLySanDatBong\bin\Debug\QuanLySanDatBong.pdb
+C:\Users\DuyHuynh\Desktop\QuanLySanDatBong\QuanLySanDatBong\obj\Debug\QuanLySanDatBong.csproj.AssemblyReference.cache
+C:\Users\DuyHuynh\Desktop\QuanLySanDatBong\QuanLySanDatBong\obj\Debug\QuanLySanDatBong.Form1.resources
+C:\Users\DuyHuynh\Desktop\QuanLySanDatBong\QuanLySanDatBong\obj\Debug\QuanLySanDatBong.Form2.resources
+C:\Users\DuyHuynh\Desktop\QuanLySanDatBong\QuanLySanDatBong\obj\Debug\QuanLySanDatBong.Properties.Resources.resources
+C:\Users\DuyHuynh\Desktop\QuanLySanDatBong\QuanLySanDatBong\obj\Debug\QuanLySanDatBong.csproj.GenerateResource.cache
+C:\Users\DuyHuynh\Desktop\QuanLySanDatBong\QuanLySanDatBong\obj\Debug\QuanLySanDatBong.csproj.CoreCompileInputs.cache
+C:\Users\DuyHuynh\Desktop\QuanLySanDatBong\QuanLySanDatBong\obj\Debug\QuanLySanDatBong.exe
+C:\Users\DuyHuynh\Desktop\QuanLySanDatBong\QuanLySanDatBong\obj\Debug\QuanLySanDatBong.pdb
